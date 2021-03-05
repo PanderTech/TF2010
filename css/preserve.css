@@ -1,0 +1,73 @@
+body {font-family:arial; font-size:10pt; margin-top:0pt; margin-left:0px; margin-right:0px; 
+	text-align:left; color:#000000}
+
+.menu p
+{
+font-family:arial; font-size:10pt; text-align:left;
+} 
+
+.menu A:link {text-decoration: none; color: #000000}
+.menu A:visited {text-decoration: none; color: #000000}
+.menu A:active {text-decoration: none; color: #000000}
+.menu A:hover {text-decoration: underline; color: red;}
+
+
+.withborder {
+ border: 1px solid #000000;
+}
+
+
+.journal p
+{
+font-family:arial; font-size:10pt; text-align:left;
+} 
+
+.journal A:link {text-decoration: none; color: blue}
+.journal A:visited {text-decoration: none; color: blue}
+.journal A:active {text-decoration: none; color: purple}
+.journal A:hover {text-decoration: underline; color: red;}
+
+
+.commentlink A:link {text-decoration: none; color: grey}
+.commentlink A:visited {text-decoration: none; color: grey}
+.commentlink A:active {text-decoration: none; color: purple}
+.commentlink A:hover {text-decoration: underline; color: red;}
+
+
+td.booklist
+{
+ background-color: #F9FBFD; 
+ font-size: 12px;
+ border-collapse: collapse; 
+} 
+
+.breadcrumb A:link {text-decoration: none; color: blue}
+.breadcrumb A:visited {text-decoration: none; color: blue}
+.breadcrumb A:active {text-decoration: none; color: purple}
+.breadcrumb A:hover {text-decoration: underline; color: red;}
+
+.normallink p
+{
+font-family:arial; font-size:10pt; text-align:left;
+} 
+
+.normallink A:link {text-decoration: none; color: blue}
+.normallink A:visited {text-decoration: none; color: blue}
+.normallink A:active {text-decoration: none; color: purple}
+.normallink A:hover {text-decoration: underline; color: red;}
+
+
+.journalHeadFormat {font-size: 0.8em; font-weight: bold; line-height: 1em;}
+
+.journalSubjectFormat {font-size: 1.2em; font-weight: bold; line-height: 1em; color: gray}
+
+
+
+/** Widgets **/
+
+#mordle {
+	position: absolute;
+	width:63px;
+	height:74px;
+	background:none;
+}
